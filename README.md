@@ -18,7 +18,7 @@ da competição.
 ### 1.2 Baixar e instalar
 
 ```
-git clone https://github.com/marcola20/RPA_Youtube..git RPA_Youtube
+git clone https://github.com/marcola20/RPA_Youtube.git
 cd RPA_Youtube
 pip install playwright
 ```
